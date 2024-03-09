@@ -1,1 +1,1 @@
-# gitlab-ci-mini-projet
+# gitlab-ci-deploy-flask-app
