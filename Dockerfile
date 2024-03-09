@@ -3,7 +3,7 @@ LABEL maintainer='TCHASSEM ANSELME'
 RUN apt-get update
 RUN DEBIAN_FRONTEND=noninteractive apt-get install git -y
 RUN mkdir /opt/files
-RUN git clone https://github.com/diranetafen/static-website-example.git /opt/files/
+RUN git clone https://github.com/AnselmeG300/static-website-example.git /opt/files/
 
 
 FROM nginx:stable-alpine3.17-slim
