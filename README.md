@@ -1,1 +1,1 @@
-# gitlab-ci-deploy-flask-app
+# gitlab-ci-deploy-staticwebsite
