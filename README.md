@@ -1,1 +1,1 @@
-# gitlab-ci-deploy-staticwebsite
+# gitlab-CICD-staticwebsite
